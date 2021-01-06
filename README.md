@@ -1,4 +1,4 @@
-# platform-this-game
+# The Platformer Game
 
 A simple but fun platformer game.
 Space-bar to jump or double jump.
